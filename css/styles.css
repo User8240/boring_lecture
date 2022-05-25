@@ -1,15 +1,6 @@
-h2.intro {
+.intro {
   font-weight: bolder;
   font-size: large;
   color: darkred;
-}
-
-p.intro {
-  font-style: italic;
-  font-weight: lighter;
-  width: 75%;
-}
-
-img.intro {
-  width: 50%;
+  font-family: Helvetica;
 }
