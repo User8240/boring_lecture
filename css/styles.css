@@ -8,3 +8,20 @@
 .basic {
   color: black;
 }
+
+img {
+  float: left;
+}
+
+.sidebar {
+  color: blue;
+  width: 30%;
+  float: left;
+  background-color: darkgray;
+}
+
+.column {
+  color: darkgreen;
+  width: 200px;
+  float: right;
+}
