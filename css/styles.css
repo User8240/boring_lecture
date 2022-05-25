@@ -1,6 +1,7 @@
 .theme {
+  background-color: lightpink;
   font-weight: lighter;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Helvetica;
   font-size: small;
   color: gray;
 }
@@ -14,16 +15,22 @@
 
 */
 
+.em-text {
+  font-family: helvetica;
+  color: rgba(249, 211, 161, 0.904);
+}
+
 .basic {
   color: black;
 }
 
-.centered-image {
-  padding: 20px;
+.image {
+  padding: 100px;
   width: 50%;
   height: auto;
   margin: auto;
   display: block;
+  float: left;
 }
 
 .sidebar {
