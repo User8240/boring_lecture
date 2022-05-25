@@ -9,9 +9,12 @@
   color: black;
 }
 
-img {
-  float: left;
+.centered-image {
   padding: 20px;
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
 }
 
 .sidebar {
@@ -23,6 +26,9 @@ img {
   border-width: 1px;
   margin-bottom: 10px;
   box-sizing: border-box;
+  margin: auto;
+  margin-top: 10px;
+  display: block;
 }
 
 .column {
